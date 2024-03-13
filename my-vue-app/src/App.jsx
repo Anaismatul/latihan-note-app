@@ -25,6 +25,7 @@ function App (){
     },[])
 
     // contoh
+    //contoh 2
 
     return (
         <BrowserRouter>
